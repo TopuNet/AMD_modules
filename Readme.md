@@ -15,5 +15,5 @@
 
 <a name="window_resize"></a>
 ###window_resize：
-		// callback: 回调
+		// callback: 回调函数
 		return function(callback) {};
