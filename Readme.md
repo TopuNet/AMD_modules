@@ -9,6 +9,10 @@
 
 [window_resize](#window_resize)：监听窗口的resize事件
 
+[background_change](#background_change)：切换body大背景
+
+[judgeBrowserEdition](#judgeBrowserEdition)：判断ie低版本浏览器版本
+
 <a name="goto_top"></a> 
 ###goto_top：
 		/* 
@@ -27,7 +31,8 @@
 		// callback: 回调方法
 		// 依赖jquery@1.x 或 zepto
 		return function(callback) {};
-		
+
+<a name="background_change"></a>
 ###background_change：
 		var _opt = {
 			obj_arr : [],		//判定变换背景的盒子名称的数组，
@@ -38,6 +43,7 @@
 		return background_change;
 		注意：盒子的数量不能多于图片的数量
 
+<a name="judgeBrowserEdition"></a>
 ###judgeBrowserEdition：
 		//判断浏览器的版本
 		//根据所船参数判断浏览器版本，参数值为0，IE7浏览器返回true，参数值为1，IE7,8,浏览器返回true，参数为其他值时，IE7,8,9,浏览器返回true
