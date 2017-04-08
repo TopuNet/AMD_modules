@@ -1,6 +1,6 @@
 # AMD_modules
-###符合AMD规范的模块集 
-###安装：npm instll TopuNet-AMD-modules
+### 符合AMD规范的模块集 
+### 安装：npm instll TopuNet-AMD-modules
 
 项目索引：
 -------------
