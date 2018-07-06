@@ -1,6 +1,6 @@
 {
   "name": "TopuNet-AMD-modules",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Topu.net AMD规范模块集",
   "main": "Readme.md",
   "scripts": {
